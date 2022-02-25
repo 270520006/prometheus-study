@@ -1,0 +1,2 @@
+# prometheus-study
+prometheus是一个监控多台机器的流量输入和输出的监控平台
